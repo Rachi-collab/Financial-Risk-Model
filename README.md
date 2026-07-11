@@ -1,8 +1,9 @@
 # Financial-Risk-Model
 
 Intern Id: CITS2603
+---
 
-A Python project for portfolio risk modeling, including VaR/CVaR calculations, EWMA volatility, backtesting, and an interactive Streamlit dashboard.
+A Python project for portfolio risk modeling...
 
 ## Project structure
 
