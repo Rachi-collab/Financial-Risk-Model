@@ -1,6 +1,5 @@
 # Financial-Risk-Model
 
-Intern Id: CITS2603
 ---
 
 A Python project for portfolio risk modeling...
