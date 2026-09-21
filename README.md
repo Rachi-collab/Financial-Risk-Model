@@ -2,7 +2,7 @@
 
 ---
 
-A Python project for portfolio risk modeling...
+A Python project for portfolio risk modeling.
 
 ## Project structure
 
